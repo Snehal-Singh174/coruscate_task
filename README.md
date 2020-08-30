@@ -7,4 +7,4 @@ In this project i have implemented
 
 ### Output
 
-<img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img1.png" width="29px"><img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img2.png" width="29px"><img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img3.png" width="29px"><img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img2.png" width="29px">
+<img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img1.png" width="129px">  <img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img2.png" width="129px">  <img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img3.png" width="129px">   <img src="https://github.com/Snehal-Singh174/coruscate_task/blob/master/output/img2.png" width="129px">
